@@ -1,1 +1,21 @@
-
+hosts:
+  helio-g99:
+    ip: 172.22.80.84
+    user: u0_aXXX
+    port: 2222
+  dim6100:
+    ip: 172.22.165.157
+    user: u0_aXXX
+    port: 2222
+  helio-g85:
+    ip: 172.22.77.232
+    user: u0_aXXX
+    port: 2222
+  i5-win11:
+    ip: 172.22.194.96
+    user: WindowsUser
+    port: 22
+  i5-wsl:
+    ip: 172.22.4.146
+    user: linuxuser
+    port: 22
