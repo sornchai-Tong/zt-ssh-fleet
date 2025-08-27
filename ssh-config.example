@@ -1,1 +1,30 @@
 
+Host helio-g99
+    HostName 172.22.80.84
+    User u0_a325
+    Port 2222
+    IdentityFile ~/.ssh/id_ed25519
+
+Host dim6100
+    HostName 172.22.165.157
+    User u0_a391
+    Port 2222
+    IdentityFile ~/.ssh/id_ed25519
+
+Host helio-g85
+    HostName 172.22.77.232
+    User u0_a440
+    Port 2222
+    IdentityFile ~/.ssh/id_ed25519
+
+Host i5-win11
+    HostName 172.22.194.96
+    User WindowsUser
+    Port 22
+    IdentityFile ~/.ssh/id_ed25519
+
+Host i5-wsl
+    HostName 172.22.4.146
+    User linuxuser
+    Port 22
+    IdentityFile ~/.ssh/id_ed25519
